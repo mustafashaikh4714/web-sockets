@@ -6,12 +6,13 @@
   "scripts": {
     "start": "node server/server.js"
   },
-  "engines" :{
-   "node":"11.2.0"
+  "engines": {
+    "node": "11.2.0"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.4"
+    "express": "^4.16.4",
+    "socket.io": "^2.2.0"
   }
 }
